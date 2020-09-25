@@ -6,3 +6,11 @@ body {
   height: 25px;
   width: 86;
 }
+
+.direction {
+  font-size: 90%;
+}
+
+.card-text, .lead {
+  line-height: 25px;
+}
