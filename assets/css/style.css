@@ -14,3 +14,8 @@ body {
 .card-text, .lead {
   line-height: 25px;
 }
+
+.card-body {
+  margin-bottom: 0;
+  padding-bottom: 5%;
+}
